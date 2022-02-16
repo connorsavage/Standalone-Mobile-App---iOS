@@ -1,0 +1,134 @@
+[
+    {
+        "title": "Interstellar",
+        "genre": "Sci-fi/Adventure",
+        "releaseYear": "2014",
+        "rating": "PG-13",
+        "timeLength": "2h 49m",
+        "id": 1001,
+        "isFavorite": false,
+        "description": "In Earth's future, a global crop blight and second Dust Bowl are slowly rendering the planet uninhabitable. Professor Brand (Michael Caine), a brilliant NASA physicist, is working on plans to save mankind by transporting Earth's population to a new home via a wormhole. But first, Brand must send former NASA pilot Cooper (Matthew McConaughey) and a team of researchers through the wormhole and across the galaxy to find out which of three planets could be mankind's new home.",
+        "imageName": "interstellar"
+    },
+    {
+        "title": "Rush",
+        "genre": "Action/Sport",
+        "releaseYear": "2013",
+        "rating": "R",
+        "timeLength": "2h 3m",
+        "id": 1002,
+        "isFavorite": false,
+        "description": "In the mid-1970s, charismatic English playboy James Hunt (Chris Hemsworth) and Austrian perfectionist Niki Lauda (Daniel Brühl) share an intense rivalry in Formula 1 racing. Driving vehicles that are little more than gas-filled, rolling bombs, Hunt and Lauda burn up the track, all the while pushing themselves to the breaking point of physical and mental endurance. Meanwhile, the women (Olivia Wilde, Alexandra Maria Lara) in their lives can only watch as both drivers risk death with every lap.",
+        "imageName": "rush"
+    },
+    {
+        "title": "Finding Nemo",
+        "genre": "Family/Adventure",
+        "releaseYear": "2003",
+        "rating": "G",
+        "timeLength": "1h 40m",
+        "id": 1003,
+        "isFavorite": false,
+        "description": "Marlin (Albert Brooks), a clown fish, is overly cautious with his son, Nemo (Alexander Gould), who has a foreshortened fin. When Nemo swims too close to the surface to prove himself, he is caught by a diver, and horrified Marlin must set out to find him. A blue reef fish named Dory (Ellen DeGeneres) -- who has a really short memory -- joins Marlin and complicates the encounters with sharks, jellyfish, and a host of ocean dangers. Meanwhile, Nemo plots his escape from a dentist's fish tank.",
+        "imageName": "nemo"
+    },
+    {
+        "title": "Ice Age",
+        "genre": "Family/Comedy",
+        "releaseYear": "2002",
+        "rating": "PG",
+        "timeLength": "1h 21m",
+        "id": 1004,
+        "isFavorite": false,
+        "description": "Twenty-thousand years ago, Earth is a wondrous, prehistoric world filled with great danger, not the least of which is the beginning of the Ice Age. To avoid a really bad frostbite, the planet's majestic creatures - and a few small, slothful ones - begin migrating south . The story revolves around sub-zero heroes: a woolly mammoth, a saber-toothed tiger, a sloth and a prehistoric combination of a squirrel and rat that is known as Scrat.",
+        "imageName": "iceAge"
+    },
+    {
+        "title": "Green Book",
+        "genre": "Biography/Drama",
+        "releaseYear": "2018",
+        "rating": "PG-13",
+        "timeLength": "2h 10m",
+        "id": 1005,
+        "isFavorite": false,
+        "description": "In 1962, Tony \"Tony Lip\" Vallelonga, a tough bouncer, is looking for work when his nightclub is closed for renovations. The most promising offer turns out to be the driver for the African-American classical pianist Don Shirley for a concert tour into the Deep South states. Although hardly enthused at working for a black man, Tony accepts the job and they begin their trek armed with The Negro Motorist Green Book, a travel guide for safe travel through America's racial segregation. Together, the snobbishly erudite pianist and the crudely practical bouncer can barely get along with their clashing attitudes to life and ideals. However, as the disparate pair witness and endure America's appalling injustices on the road, they find a newfound respect for each other's talents and start to face them together. In doing so, they would nurture a friendship and understanding that would change both their lives.",
+        "imageName": "greenBook"
+    },
+    {
+        "title": "Ant-Man",
+        "genre": "Action/Adventure",
+        "releaseYear": "2015",
+        "rating": "PG-13",
+        "timeLength": "1h 57m",
+        "id": 1006,
+        "isFavorite": false,
+        "description": "Armed with the astonishing ability to shrink in scale but increase in strength, con-man Scott Lang must embrace his inner-hero and help his mentor, Dr. Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world.",
+        "imageName": "antman"
+    },
+    {
+        "title": "21 Jump Street",
+        "genre": "Comedy/Action",
+        "releaseYear": "2012",
+        "rating": "R",
+        "timeLength": "1h 49m",
+        "id": 1007,
+        "isFavorite": false,
+        "description": "In 2005, Schmidt and Jenko are high school students, one an honor roll geek, the other a cool, athletic underachiever. By 2012, they are rookie cops, paired together, on bike patrol yearning to make arrests. After a screw up, they're sent undercover back to high school to find the source of a dangerous synthetic drug. They mix up their names, and Schmidt gets the no-brainer classes where he auditions for Peter Pan and falls in love with Wendy; Jenko gets AP classes where he falls in with high-achieving dweebs. This second chance at high school gives Schmidt delusions of grandeur, which threaten the operation. Can they sort out their relationship as they stumble onto the bad guys?",
+        "imageName": "jumpstreet"
+    },
+    {
+        "title": "The Martian",
+        "genre": "Sci-Fi/Drama",
+        "releaseYear": "2015",
+        "rating": "PG-13",
+        "timeLength": "2h 24m",
+        "id": 1008,
+        "isFavorite": false,
+        "description": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive. Millions of miles away, NASA and a team of international scientists work tirelessly to bring \"the Martian\" home, while his crewmates concurrently plot a daring, if not impossible, rescue mission. As these stories of incredible bravery unfold, the world comes together to root for Watney's safe return.",
+        "imageName": "martian"
+    },
+    {
+        "title": "1917",
+        "genre": "Action/Drama",
+        "releaseYear": "2019",
+        "rating": "R",
+        "timeLength": "1h 59m",
+        "id": 1009,
+        "isFavorite": false,
+        "description": "April 1917, the Western Front. Two British soldiers are sent to deliver an urgent message to an isolated regiment. If the message is not received in time the regiment will walk into a trap and be massacred. To get to the regiment they will need to cross through enemy territory. Time is of the essence and the journey will be fraught with danger.",
+        "imageName": "1917"
+    },
+    {
+        "title": "Venom",
+        "genre": "Action/Adventure",
+        "releaseYear": "2018",
+        "rating": "PG-13",
+        "timeLength": "1h 52m",
+        "id": 1010,
+        "isFavorite": false,
+        "description": "After a faulty interview with the Life Foundation ruins his career, former reporter Eddie Brock's life is in pieces. Six months later, he comes across the Life Foundation again, and he comes into contact with an alien symbiote and becomes Venom, a parasitic antihero.",
+        "imageName": "venom"
+    },
+    {
+        "title": "The Conjuring",
+        "genre": "Horror/Mystery",
+        "releaseYear": "2013",
+        "rating": "R",
+        "timeLength": "1h 52m",
+        "id": 1011,
+        "isFavorite": false,
+        "description": "In 1971, Carolyn and Roger Perron move their family into a dilapidated Rhode Island farm house and soon strange things start happening around it with escalating nightmarish terror. In desperation, Carolyn contacts the noted paranormal investigators, Ed and Lorraine Warren, to examine the house. What the Warrens discover is a whole area steeped in a satanic haunting that is now targeting the Perron family wherever they go. To stop this evil, the Warrens will have to call upon all their skills and spiritual strength to defeat this spectral menace at its source that threatens to destroy everyone involved.",
+        "imageName": "conjuring"
+    },
+    {
+        "title": "Rubber",
+        "genre": "Horror/Comedy",
+        "releaseYear": "2010",
+        "rating": "R",
+        "timeLength": "1h 22m",
+        "id": 1012,
+        "isFavorite": false,
+        "description": "A homicidal car tire, discovering it has destructive psionic power, sets its sights on a desert town once a mysterious woman becomes its obsession.",
+        "imageName": "rubber"
+    }
+]
